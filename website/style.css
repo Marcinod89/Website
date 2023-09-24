@@ -60,8 +60,17 @@ nav{
     transition: all 0.3s ease;
 }
 
-.kink a:hover::after{
+.link a:hover::after{
     width: 70%;
-    
+}
+
+.btn{
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #1d4ed8;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
 
 }
