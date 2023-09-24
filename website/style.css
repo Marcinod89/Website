@@ -19,5 +19,15 @@ a{
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #181811;
+    background-color: #18181B;
+}
+
+nav{
+    max-width: 1200px;
+    margin: auto;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
 }
