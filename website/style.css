@@ -73,3 +73,8 @@ nav{
     cursor: pointer;
     transition: all 0.3s ease;
 }
+
+.btn:hover{
+    background-color: #1e40af;
+    
+}
