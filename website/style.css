@@ -158,7 +158,7 @@ section .header{
 .features{
     margin-top: 4rem;
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
 }
 
@@ -175,7 +175,7 @@ section .header{
     border-color: #fff;
 }
 
-.features .card span{
+.features .card cspan{
     display: inline-block;
     background-color: #1e40af;
     padding: 2px 9px;
