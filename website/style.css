@@ -175,7 +175,7 @@ section .header{
     border-color: #fff;
 }
 
-.features .card cspan{
+.features .card span{
     display: inline-block;
     background-color: #1e40af;
     padding: 2px 9px;
