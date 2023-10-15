@@ -158,7 +158,7 @@ section .header{
 .features{
     display: flex;
     flex-direction: row;
-    flex-basis: 1 1 1 1;
+    flex-basis: 24%;
     gap: 1rem;
 }
 
