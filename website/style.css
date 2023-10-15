@@ -156,10 +156,10 @@ section .header{
 }
 
 .features{
-    display: flex;
-    flex-direction: row;
-    flex-basis: 24%;
-    gap: 1rem;
+    margin-top: 4rem;
+    display: grid;
+    grid-template-columns: (4, 1fr);
+    gap: 2rem;
 }
 
 .features .card{
